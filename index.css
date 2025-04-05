@@ -4,6 +4,7 @@ p {
 
 body {
     margin: 0;
+    max-width: 800px;
 }
 
 .container {
